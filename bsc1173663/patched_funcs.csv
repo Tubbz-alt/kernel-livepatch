@@ -1,0 +1,1 @@
+i915 init_whitelist klpp_init_whitelist IS_ENABLED(CONFIG_DRM_I915)
