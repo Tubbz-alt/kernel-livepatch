@@ -1,0 +1,2 @@
+videodev v4l2_event_subscribe klpp_v4l2_event_subscribe IS_ENABLED(CONFIG_VIDEO_V4L2)
+videodev v4l2_event_unsubscribe klpp_v4l2_event_unsubscribe IS_ENABLED(CONFIG_VIDEO_V4L2)
