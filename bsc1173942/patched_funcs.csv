@@ -1,0 +1,2 @@
+gspca_xirlink_cit cit_get_packet_size klpp_cit_get_packet_size IS_ENABLED(CONFIG_USB_GSPCA_XIRLINK_CIT)
+gspca_xirlink_cit sd_isoc_init klpp_sd_isoc_init IS_ENABLED(CONFIG_USB_GSPCA_XIRLINK_CIT)
