@@ -1,0 +1,1 @@
+snd_usb_audio parse_audio_mixer_unit klpp_parse_audio_mixer_unit IS_ENABLED(CONFIG_SND_USB_AUDIO)
