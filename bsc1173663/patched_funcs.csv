@@ -1,0 +1,2 @@
+i915 eb_relocate_entry klpp_eb_relocate_entry IS_ENABLED(CONFIG_DRM_I915)
+i915 i915_gem_do_execbuffer klpp_i915_gem_do_execbuffer IS_ENABLED(CONFIG_DRM_I915)
