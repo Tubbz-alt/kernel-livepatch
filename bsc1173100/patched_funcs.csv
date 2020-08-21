@@ -1,0 +1,1 @@
+mwifiex mwifiex_bss_start klpp_mwifiex_bss_start IS_ENABLED(CONFIG_MWIFIEX)
