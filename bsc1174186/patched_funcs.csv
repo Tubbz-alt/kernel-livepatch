@@ -1,0 +1,1 @@
+acpi_configfs acpi_table_aml_write klpp_acpi_table_aml_write IS_ENABLED(CONFIG_ACPI_CONFIGFS)
