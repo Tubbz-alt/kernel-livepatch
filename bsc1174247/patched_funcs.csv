@@ -1,0 +1,1 @@
+vmlinux vgacon_scroll klpp_vgacon_scroll IS_ENABLED(CONFIG_VGA_CONSOLE)
