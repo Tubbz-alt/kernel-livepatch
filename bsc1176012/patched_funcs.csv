@@ -1,0 +1,3 @@
+vmlinux futex_wake klpp_futex_wake
+vmlinux futex_wait klpp_futex_wait
+vmlinux do_futex klpp_do_futex
