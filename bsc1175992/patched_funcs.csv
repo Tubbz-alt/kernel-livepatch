@@ -1,0 +1,2 @@
+nfsd nfsd_create_locked klpp_nfsd_create_locked
+nfsd do_nfsd_create klpp_do_nfsd_create
