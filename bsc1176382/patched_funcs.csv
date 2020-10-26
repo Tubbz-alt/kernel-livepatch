@@ -1,0 +1,2 @@
+nfsv4 decode_getfattr_attrs klpp_decode_getfattr_attrs
+nfs nfs_readdir_page_filler klpp_nfs_readdir_page_filler
