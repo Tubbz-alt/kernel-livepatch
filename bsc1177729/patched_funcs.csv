@@ -1,0 +1,1 @@
+bluetooth l2cap_data_channel klpp_l2cap_data_channel IS_ENABLED(CONFIG_BT)
