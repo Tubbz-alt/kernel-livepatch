@@ -1,0 +1,3 @@
+vmlinux follow_trans_huge_pmd klpp_follow_trans_huge_pmd
+vmlinux follow_devmap_pmd klpp_follow_devmap_pmd
+vmlinux follow_devmap_pud klpp_follow_devmap_pud IS_ENABLED(CONFIG_HAVE_ARCH_TRANSPARENT_HUGEPAGE_PUD)
