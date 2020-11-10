@@ -7,15 +7,23 @@
  *  c4e85f73afb6 ("net: ipv6: add net argument to ip6_dst_lookup_flow")
  *  6c8991f41546 ("net: ipv6_stub: use ip6_dst_lookup_flow instead of
  *                 ip6_dst_lookup")
+ *  34beb2159451 ("geneve: add transport ports in route lookup for geneve")
  *
  *  SLE12-SP1 commit:
  *  none yet
  *
- *  SLE12-SP2 and -SP3 commit:
- *  none yet
+ *  SLE12-SP2 and -SP3 commits:
+ *  none yet for CVE-2020-1749, bsc#1165631
+ *  1139e0ae8aec422d4646f6fecb8da4175ca27fef for CVE-2020-25645, bsc#1177513
  *
- *  SLE12-SP4, SLE12-SP5, SLE15 and SLE15-SP1 commit:
- *  none yet
+ *  SLE12-SP4, SLE12-SP5, SLE15 and SLE15-SP1 commits:
+ *  16d5da48843b9e1ca552c14ef6bf159d9181787f
+ *  be7cb13683ce9e6d2458fc4cead93d5136ce3652
+ *  e7568d7d32fc561a5a553b46ec73e6753be6b7fa for CVE-2020-25645, bsc#1177513
+ *
+ *  SLE15-SP2 commits:
+ *  not affected by CVE-2020-1749, bsc#1165631
+ *  7ab9b466547c939c41aa7179c497d9fa0b98c61a for CVE-2020-25645, bsc#1177513
  *
  *
  *  Copyright (c) 2020 SUSE
