@@ -1,0 +1,2 @@
+vmlinux vt_ioctl klpp_vt_ioctl IS_ENABLED(CONFIG_VT)
+vmlinux vt_compat_ioctl klpp_vt_compat_ioctl IS_ENABLED(CONFIG_VT)
